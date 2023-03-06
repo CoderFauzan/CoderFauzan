@@ -14,6 +14,14 @@ https://react-fauzan.stackblitz.io
 ![image](https://user-images.githubusercontent.com/90621630/199699330-ac88ab17-3832-44dd-a85f-f51d8d50c6c2.png)
 
 
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,vscode" />
+  </a>
+</p>
 <!---
 CoderFauzan/CoderFauzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

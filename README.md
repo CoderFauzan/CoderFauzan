@@ -15,7 +15,7 @@ https://react-fauzan.stackblitz.io
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,react,github,vscode" />
   </a>
 </p>
 <!---

@@ -24,5 +24,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/coderfauzan">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=coderfauzan&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderfauzan&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderfauzan&theme=algolia&layout=compact&exclude_repo=Covid-19-DATA-Analysis" />
 </a>

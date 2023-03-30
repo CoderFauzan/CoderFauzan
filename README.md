@@ -3,7 +3,6 @@
 - 🌱 I’m currently using and learning HTML, CSS, Javascript and React JS
 - 📫 Reach me :- mahzaibfauzan@gmail.com
 
-https://react-fauzan.stackblitz.io
 
 ### :hammer_and_wrench: Languages and Tools :
 

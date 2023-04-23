@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FAUZAN @CoderFauzan
+- 👋 Hi, I’m Fauzan @CoderFauzan
 - 👀 I’m a FrontEnd/UI Developer
 - 🌱 I’m currently using and learning HTML, CSS, Javascript and React JS
 - 📫 Reach me :- mahzaibfauzan@gmail.com

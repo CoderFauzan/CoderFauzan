@@ -22,6 +22,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderfauzan&theme=onedark&row=2&column=3)](https://github.com/coderfauzan/github-profile-trophy) 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=coderfauzan&theme=dark)](https://git.io/streak-stats)
+
 
 
 

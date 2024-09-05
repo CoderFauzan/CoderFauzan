@@ -2,7 +2,7 @@
 - 👀 I’m a FrontEnd/UI Developer
 - 🌱 I’m currently using and learning HTML, CSS, Javascript and React JS
 - 📫 Reach me :- mahzaibfauzan@gmail.com
-
+- https://coderfauzan.netlify.app/
 
 ### :hammer_and_wrench: Languages and Tools :
 
